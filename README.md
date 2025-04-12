@@ -32,7 +32,7 @@ Uma API para previsão de séries temporais usando LSTM (Long Short-Term Memory)
 
 ## 📊 Visualização do Modelo
 
-![Modelo LSTM](Dev/Versões_dev/Modelo%205%20-%20Previsao%20-%20055/previsao_lstm_completa_045.png)
+![Modelo LSTM](Dev/Modelo%204%20-%20Previsao%20-%20055/previsao_lstm_futuro_multivariavel_055.png)
 
 ## ⚙️ Configuração do Ambiente
 
